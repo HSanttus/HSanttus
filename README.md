@@ -3,7 +3,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=pt)
 
 ![Henrique Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=HSanttus&show_icons=true&theme=highcontrast)
-https://github-readme-stats.vercel.app/api/top-langs/?username={HSanttus}&theme=blue-green
+![Henrique Santos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={HSanttus}&theme=blue-green)
 
 ### Tecnologia que utilizo
 <div style="display: inline_block"><br>

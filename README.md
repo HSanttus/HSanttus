@@ -2,8 +2,10 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.eicbp@gmail.com)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=pt)
 
-![HSanttus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSanttus&show_icons=true&theme=github_dark)
-![HSanttus's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HSanttus&theme=github_dark)
+<div>
+<img  height="180px" src="https://github-readme-stats.vercel.app/api?username=HSanttus&show_icons=true&theme=github_dark">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSanttus&theme=github_dark">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>

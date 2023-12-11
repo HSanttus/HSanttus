@@ -1,6 +1,4 @@
 ## Olá, eu sou Henrique Santos 👋
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.eicbp@gmail.com)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=pt)
 
 <div>
 <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=HSanttus&show_icons=true&theme=github_dark">
